@@ -1,2 +1,3 @@
 # Basic-C-Shell
-# The following C code is the baic code an unix shell.
+The following code is written in C language.
+This code is the basic replica of the working of unix shell.
