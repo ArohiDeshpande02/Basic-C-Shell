@@ -1,2 +1,2 @@
 # Basic-C-Shell
-This is a basic C code of unix shell.
+# The following C code is the baic code an unix shell.
